@@ -40,7 +40,7 @@ Challenges occurred while completing the website includes navigating HTML tags t
 
 ## License
 
-    Copyright [yyyy] [Trinh Nguyen]
+    Copyright [yyyy] [Trinh Nguyen Do]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
